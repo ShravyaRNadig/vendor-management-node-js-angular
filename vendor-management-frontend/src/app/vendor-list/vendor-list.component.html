@@ -1,0 +1,31 @@
+<div class="container">
+  <h2>Vendor List</h2>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Contact</th>
+        <th>Address</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let vendor of vendors">
+        <td>{{ vendor.id }}</td>
+        <td>{{ vendor.name }}</td>
+        <td>{{ vendor.contact }}</td>
+        <td>{{ vendor.address }}</td>
+        <td>
+          <div class="button-group">
+            <button (click)="editVendor(vendor.id)" class="add-button">Edit</button>
+            <button (click)="deleteVendor(vendor.id)" class="delete-button">Delete</button>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="button-group">
+    <button routerLink="/add-vendor" class="add-button">Add Vendor</button>
+  </div>
+</div>

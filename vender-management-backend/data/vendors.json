@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "contact": "7188926819",
+    "address": "123 New St, NY"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "contact": "9172543680",
+    "address": "456 Maple Ave, Brooklyn, NY"
+  },
+  {
+    "id": 3,
+    "name": "David Johnson",
+    "contact": "6462398745",
+    "address": "789 Oak Dr, Queens, NY"
+  },
+  {
+    "id": 4,
+    "name": "Emily White",
+    "contact": "7183472059",
+    "address": "101 Pine St, Bronx, NY"
+  },
+  {
+    "id": 5,
+    "name": "Michael Brown",
+    "contact": "3476129830",
+    "address": "202 Birch Rd, Staten Island, NY"
+  },
+  {
+    "id": 6,
+    "name": "Sophia Davis",
+    "contact": "6464231902",
+    "address": "303 Elm Blvd, Manhattan, NY"
+  },
+  {
+    "id": 7,
+    "name": "James Wilson",
+    "contact": "2126547830",
+    "address": "404 Cedar Ln, Harlem, NY"
+  },
+  {
+    "id": 8,
+    "name": "Olivia Martinez",
+    "contact": "9173456789",
+    "address": "505 Willow Way, Bronx, NY"
+  },
+  {
+    "id": 9,
+    "name": "Daniel Lee",
+    "contact": "9295341290",
+    "address": "606 Maple Blvd, Brooklyn, NY"
+  },
+  {
+    "id": 10,
+    "name": "Lily Anderson",
+    "contact": "6468291057",
+    "address": "707 Cherry Ave, Queens, NY"
+  }
+]
